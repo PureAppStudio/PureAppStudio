@@ -11,4 +11,4 @@ Pure App Development Studio Dedicated to
 Current Projects: Pure Text Editor Pro | Pure Notebook Pro | Your Personal Cookbook
 
 
-Support the Craft: ko-fi.com/pureappstudios
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pureappstudios)
