@@ -9,3 +9,6 @@ Pure App Development Studio Dedicated to
 🎨 Tactile: High-end "Linen & Lead" aesthetic for reduced eye strain.
 
 Current Projects: Pure Text Editor Pro | Pure Notebook Pro | Your Personal Cookbook
+
+
+Support the Craft: ko-fi.com/pureappstudios
